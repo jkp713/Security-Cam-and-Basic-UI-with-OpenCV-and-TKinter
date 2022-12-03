@@ -1,4 +1,4 @@
-# Security-Cam-and-Basic-UI-with-OpenCV-and-TKinter
+# Facial Detection Security-Cam-and-Basic-UI-with-OpenCV-and-TKinter
 Security Cam and Basic UI with OpenCV and TKinter made with Python
 
 There are three different files in this repository. One is 'securitycam.py' which contains the scrpit for security cam. When this script is run, it startarts to record when it detecs a face, and it continues to record until 5 seconds after it stops detecting a face. And when it stops recording, it writes the recorded video in mp4 format to the same folder which contains 'securitycam.py' file.  Note that only 'securitycam.py' file is enough to function as a face detection security cam, and you can quit the program by pressing 'q'. 
